@@ -11,3 +11,7 @@ CVE-2019-6977.patch
 Fix-492-Potential-double-free-in-gdImage-Ptr.patch
 Fix-501-Uninitialized-read-in-gdImageCreateFromXbm.patch
 CVE-2018-14553.patch
+CVE-2017-6363-1.patch
+CVE-2017-6363-2.patch
+CVE-2021-38115.patch
+CVE-2021-40145.patch
